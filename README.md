@@ -1,4 +1,4 @@
-<img src="Gif.gif">
+<video src="Gif.gif">
 
 ## Descrição do projeto 
 
