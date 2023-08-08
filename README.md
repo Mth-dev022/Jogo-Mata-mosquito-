@@ -1,4 +1,4 @@
-<img src="printTela.png">
+<img src="Gif.gif">
 
 ## Descrição do projeto 
 
