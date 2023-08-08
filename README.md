@@ -1,6 +1,6 @@
 <video src="Gif.gif">
 
-## Descrição do projeto 
+## 📝  Descrição do projeto 
 
 <p align="justify">
   Um mini game rápido e divertido para rodar em browsers. 
