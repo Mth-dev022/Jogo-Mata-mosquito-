@@ -1,4 +1,4 @@
-<img src="Gif.gif">
+<p align"center"> <img width="90%" src="Gif.gif"> </p>
 
 ## 📝  Descrição do projeto 
 
