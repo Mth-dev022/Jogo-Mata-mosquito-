@@ -5,7 +5,7 @@
 <p align="justify">
   Um mini game rápido e divertido para rodar em browsers. 
  Você tera que sobreviver por 15 segundos eliminando todas as moscas que aparecerem na tela.
-Contém 3 níveis de dificuldade.
+Contém 3 níveis de dificuldade
 </p>
 
 ## 🚀 Tecnologias
